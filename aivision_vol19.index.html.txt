@@ -1,0 +1,4123 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;
+ charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="format-detection" content="telephone=no">
+<title>
+default</title>
+<style type="text/css">
+p{
+margin: 0}
+.split-cell{
+display: table-cell;
+vertical-align: top;
+height: 0}
+.split-table{
+height: 100%;
+width: 100%;
+padding: 0;
+display: table;
+border-collapse: collapse;
+table-layout: fixed;
+}
+table{
+color:#222222;
+ font-size:62.5%;
+ max-width:800px;
+ word-wrap:break-word;
+ margin-top:0;
+ font-family:'Noto Sans Japanese R', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Yu Gothic', YuGothic, 'ヒラギノ角ゴ ProN W3', Hiragino Kaku Gothic ProN, Arial, 'メイリオ', Meiryo, sans-serif;
+ margin-left:auto;
+ margin-right:auto;
+ padding-left:2%;
+ margin-bottom:0;
+ padding-right:2%;
+ background-color:#ffffff;
+ width:100%}
+.box4 .class0{
+margin:0px;
+ text-align:center;
+ padding-left:0px;
+ padding-right:0px}
+.box4 .class1{
+width:100%;
+ height:auto;
+ display:block}
+.box2 .class0{
+color:rgb(136, 136, 136);
+ margin:0px;
+ padding:1.2em 2% 0.7em;
+ font-size:2.2em;
+ letter-spacing:0.05em;
+ background-color:rgb(255, 255, 255)}
+.box3 .class0{
+margin:0;
+ font-size:1.5em;
+ padding-top:0.75em;
+ padding-left:3%;
+ padding-right:3%;
+ padding-bottom:0.75em;
+ background-color:#ffffff}
+.box6 .class0{
+margin:0;
+ text-align:center;
+ padding-top:1em;
+ padding-left:2.4em;
+ padding-right:2.4em;
+ padding-bottom:1em;
+ background-color:#ffffff}
+.box6 .class1{
+height:1px;
+ background-color:#dddddd}
+.box5 .class0{
+margin:0px;
+ padding:1em 2%;
+ font-size:1.5em;
+ text-align:center;
+ background-color:rgb(255, 255, 255)}
+.box5 .class1{
+width:100%;
+ border:0.15em solid;
+ margin:0.15em 0px;
+ display:inline-block;
+ padding:0.5em 2em;
+ box-sizing:border-box;
+ border-color:#ff245f;
+ border-radius:0.25em;
+ vertical-align:middle;
+ text-decoration:none;
+ background-color:transparent}
+.box8 .class0{
+width:100%;
+ display:table;
+ table-layout:fixed}
+a:link{
+color:#888888;
+}
+a:visited{
+color:#888888;
+}
+a:hover{
+color:#888888;
+}
+a:active{
+color:#888888;
+}
+a:focus{
+color:#888888;
+}
+</style>
+</head>
+<body style="margin: 0px;
+overflow-x: hidden;
+">
+<center>
+<table class="mmtable" border="0" cellpadding="0" cellspacing="0" width="800" style="font-size: 100%;
+ border-spacing: 0;
+ background-color: #ffffff;
+">
+<tbody>
+<tr valign="top">
+<td class="box4">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div class="class0">
+<a target="_blank" href="https://ec.saivision.jp/">
+<img width="768" style="width:100%;
+ height:auto;
+ display:block;
+" src="https://cmm.repica.jp/children/1758008001154_2igbjuzkl6.png">
+</a>
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box2">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<h2 class="class0">
+<p style="text-align: center;
+">
+Vol.19号</p>
+
+</h2>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box3">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div class="class0">
+<p>
+おかえりなさ～い。</p>
+
+<p>
+文化の日を加えた3連休明けの11月４日がやってきました。</p>
+
+<p>
+朝起きたときにお布団から出るのが辛い季節の到来！</p>
+
+<p>
+インフルエンザも流行しているので体調管理に気をつけて過ごしてくださいね💛</p>
+
+<p>
+本メルマガは、渋谷愛ビジョン会員の皆さまに最新NEWSや直近の「バースデーランキング」そして、心がポカポカになるおめでとう、ありがとうに纏わる情報をお届けしています。</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+<strong style="font-size: 1.35em;
+">
+<u>
+第19号では…、</u>
+</strong>
+</p>
+
+<p>
+<strong style="font-size: 1.35em;
+">
+<u>
+大切なひと💝大好きな人💝が居る方。そして、推し活は心が豊かになって幸せになれることを知ってますか！？</u>
+</strong>
+</p>
+
+<p>
+<strong style="font-size: 1.35em;
+">
+<u>
+そして、</u>
+</strong>
+</p>
+
+<p>
+<strong style="font-size: 1.35em;
+">
+<u>
+渋谷愛ビジョン公式LINEがアップデート！TEAM愛９専用の投稿ができるようになりました！</u>
+</strong>
+<strong>
+<u>
+！</u>
+</strong>
+</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+愛言葉は…、</p>
+
+<p>
+おめでとう、ありがとう～♡</p>
+
+<p>
+おかえりなさい、またね～♡</p>
+
+<p>
+渋谷愛ビジョンマガジン</p>
+
+<p>
+どうぞ最後までお楽しみくだわ～ん💛</p>
+
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box6">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div class="class0">
+<div class="class1" style="display: block;
+">
+&nbsp;</div>
+
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box2">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<h2 style="color:#888888;
+ margin:0;
+ font-size:2.2em;
+ padding-top:1.2em;
+ padding-left:2%;
+ padding-right:2%;
+ letter-spacing:0.05em;
+ padding-bottom:0.7em;
+ background-color:#ffffff;
+">
+<p style="text-align: center;
+">
+<span style="color: rgb(0, 0, 0);
+">
+🌟渋谷愛ビジョンNEWS🌟</span>
+</p>
+
+</h2>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box3">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div style="margin:0;
+ font-size:1.5em;
+ padding-top:0.75em;
+ padding-left:3%;
+ padding-right:3%;
+ padding-bottom:0.75em;
+ background-color:transparent;
+">
+<p>
+<span style="font-size: 1.35em;
+ color: rgb(59, 166, 248);
+">
+■大切なひと＆大好きな人が居る方💛そして、推し活をしている皆様は…、「オキシトシン」で幸せになれる☆彡</span>
+</p>
+
+<p>
+大切なひと＆大好きな人が居ることはとても幸せなことです。</p>
+
+<p>
+大切なひと＆大好きな人に…、</p>
+
+<p>
+幸せを呼ぶ魔法の言葉「おめでとう」「ありがとう」の愛メッセージを贈るとハッピーオーラが増幅して心が暖かくなってきます。</p>
+
+<p>
+推し活も同様です。大好きな推しの笑顔を求めておこなう推し活もストレスを軽減して心が暖かくなってきます。</p>
+
+<p>
+実はこのおめあり活動は…、</p>
+
+<p>
+愛情ホルモン「オキシトシン」の分泌を促すことで免疫力がアップしたり、心のストレスが軽減することで健康に寄与し幸せになれると言われているのです。</p>
+
+<p>
+渋谷愛ビジョンのオススメは…、</p>
+
+<p>
+寝る前に、大切なひと＆大好きな人を思い浮かべて『愛メッセージ』を贈ること。寝る前に愛と感謝を思い浮かべることで良質な睡眠へ誘われること実証されているのです。</p>
+
+<p>
+1日1通、『愛メッセージ』を贈るのが難しいという方は…、</p>
+
+<p>
+渋谷愛ビジョン誕生祭や渋谷愛ビジョンおめあり祭に参加しておめでとう＆ありがとうのシャワーを浴びてください。</p>
+
+<p>
+リアルタイムが難しい方は…、</p>
+
+<p>
+渋谷愛ビジョン公式YouTubeのアーカイブ動画をご覧になってコメントを投稿するだけでもオキシトシン効果が期待できます。</p>
+
+<p>
+「おめでとう」「ありがとう」</p>
+
+<p>
+そして、</p>
+
+<p>
+「おかえりなさい」「またね～」</p>
+
+<p>
+幸せを呼ぶ魔法の言葉で愛情ホルモン「オキシトシン」を増やして笑顔を紡いでいきましょう。</p>
+
+<p>
+今日より明日がもっと×２！！素敵な1日になりますようにー💞</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+【参考資料】</p>
+
+<p>
+<a href="https://fufufu.rohto.co.jp/feature/68334/" rel="noopener noreferrer" target="_blank">
+<strong>
+■オキシトシンの効果とは｜ストレスを抑え、絆を深める“愛情ホルモン”（医学博士・髙橋徳先生）</strong>
+</a>
+</p>
+
+<p>
+<a href="https://goodhealth.juntendo.ac.jp/pickup/000251.html" rel="noopener noreferrer" target="_blank">
+■コロナ禍に。愛情ホルモン「オキシトシン」への期待（医学博士・小林弘幸）</a>
+</p>
+
+<p>
+<a href="https://mame-clinic.net/articles/?p=7752" rel="noopener noreferrer" target="_blank">
+■オキシトシンとは？「幸せホルモン」の効果と増やす方法を解説</a>
+</p>
+
+<p>
+<br>
+
+</p>
+
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box4">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div style="margin:0;
+ text-align:center;
+ padding-left:0;
+ padding-right:0;
+">
+<img width="768" class="class1" src="https://cmm.repica.jp/children/1762236537486_n9pvpkzqku.png">
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box2">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<h2 style="color:#888888;
+ margin:0;
+ font-size:2.2em;
+ padding-top:1.2em;
+ padding-left:2%;
+ padding-right:2%;
+ letter-spacing:0.05em;
+ padding-bottom:0.7em;
+ background-color:#ffffff;
+">
+<p>
+<span style="color: rgb(0, 0, 0);
+">
+🖼️ 愛デコピックアッ<span class="ql-cursor">
+ </span>
+プ</span>
+</p>
+
+</h2>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box3">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div class="class0">
+<p>
+このコーナーでは、渋谷愛メッセージ、その事前予約を彩る「愛デコ」をいろいろご紹介いたしますのダ。</p>
+
+<p>
+いったいどんな愛デコがあるのか？たくさんあって、どれを選べばいいか迷っちゃう…そんな時に、あなたの助けになるよう！愛８の「家（うち）がラクダ」と「外でタイガー」が、それぞれおすすめの愛デコを紹介します！</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+今日は…</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+先日、東京としては雨模様となってやや静かめに過ぎていった「ハロウィーン」、その愛デコがあるよ！というご紹介をしましたが、</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+いよいよ11月と言うことで、年末が近い！</p>
+
+<p>
+（いやほんと、あっというまに年末年始ですし、メッセージ応募ということでいうと、そのあたりのご予約がかなり入っているので、もし放映したいメッセージがおありになる場合は、お早めに！という意味も含めて…）</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+…ので、今回は、クリスマス関連愛デコご紹介第一弾。</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+まずはこれ。「クリスマスストライプ」</p>
+
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box4">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div style="margin:0;
+ text-align:center;
+ padding-left:0;
+ padding-right:0;
+">
+<img width="768" class="class1" src="https://cmm.repica.jp/children/1762217462192_t8yylipcet.png">
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box3">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div class="class0">
+<p>
+そしてこれ 「Wish You merry Christmas」</p>
+
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box4">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div style="margin:0;
+ text-align:center;
+ padding-left:0;
+ padding-right:0;
+">
+<img width="768" class="class1" src="https://cmm.repica.jp/children/1762217460715_5m1pzy9rz52.png">
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box3">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div class="class0">
+<p>
+もっともイベント的な種類の愛デコなので、とっても伝わりやすい愛デコがありますよ〜</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+さらに！忍者ハチのメリクリ01</p>
+
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box4">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div style="margin:0;
+ text-align:center;
+ padding-left:0;
+ padding-right:0;
+">
+<img width="768" class="class1" src="https://cmm.repica.jp/children/1762217464911_3c56jffxzfd.png">
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box3">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div class="class0">
+<p>
+これは、可愛いパターンで。</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+そしてこちら 忍者ハチのメリクリ07 と 忍者ハチのメリクリ08</p>
+
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box4">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div style="margin:0;
+ text-align:center;
+ padding-left:0;
+ padding-right:0;
+">
+<img width="768" class="class1" src="https://cmm.repica.jp/children/1762217463161_9lim6q4mfc.png">
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box4">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div style="margin:0;
+ text-align:center;
+ padding-left:0;
+ padding-right:0;
+">
+<img width="768" class="class1" src="https://cmm.repica.jp/children/1762217745754_hkz2uqtqaa9.jpeg">
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box3">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div class="class0">
+<p>
+選択肢が多い「季節もの」なので、選びがいもございますのダ。</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+クリスマス、機会のがさないデねっっ！</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+その他愛デコは、こちら↓からご覧いただけます。</p>
+
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box5">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div class="class0">
+<a class="class1" target="_blank" href="https://ec.saivision.jp/aideco">
+<p>
+<span style="font-size: 1.35em;
+ color: rgb(255, 36, 95);
+">
+愛デコ</span>
+</p>
+
+</a>
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box3">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div class="class0">
+<p>
+メッセージの申し込みの最中でも、愛デコの使うか使わないか選べるので、とりあえず応募始めてもらって良いかと思いますのダ。</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+水曜担当の 愛８・家がラクダ、でしたっっ。</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+続いては、外でタイガー さんからガォ！🐯</p>
+
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box3">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div class="class0">
+<p>
+一人目は、11月11日生まれのこちらの方ガォ💛</p>
+
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box4">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div style="margin:0;
+ text-align:center;
+ padding-left:0;
+ padding-right:0;
+">
+<img width="768" class="class1" src="https://cmm.repica.jp/children/1762237933940_c9xnfmbk1db.png">
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box3">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div class="class0">
+<p>
+中西圭三さんは先週バスランでスタジオにゲストで出演してくれたがおん🐯</p>
+
+<p>
+元々バスランが始まった頃にXで反応してくださったのが今回形になったガオー❣️</p>
+
+<p>
+シンガソングライターとして作曲家として1991年かた活動されてるガルル🐅</p>
+
+<p>
+ご本人もEXILEもセルフカバーしたZOOの「Choo Choo TRAIN」やブラックビスケッツの「Timing」、NHK教育テレビの子供向け番組「おかあさんといっしょ」の「ぼよよん行進曲」</p>
+
+<p>
+が有名ガォ✨</p>
+
+<p>
+普段はおでかけの際に珍しいマンホールを写真に納めてマンホーラーとしての一面もある中西さんをラジコでチェックガオン📻</p>
+
+<p>
+バスラン、ランクインして電話ゲスト出てもらいたいガルル❤️</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+続いては今週バスランゲストの方ガオ〜🐯✨</p>
+
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box4">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div style="margin:0;
+ text-align:center;
+ padding-left:0;
+ padding-right:0;
+">
+<img width="768" class="class1" src="https://cmm.repica.jp/children/1762237970014_f9o1b5vat87.png">
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box3">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div class="class0">
+<p>
+2002年12月1日生まれ、静岡県出身の中川心さん⭐️</p>
+
+<p>
+高校生の頃からアイドルとして活動してるガオン🐯❤️</p>
+
+<p>
+以前所属していたグループ『あまいものつめあわせ』で、写真がバズると「かわいい！」「絶対ブレイクする」と大きな話題になったガオ〜🌟</p>
+
+<p>
+現在、雑誌『週刊FLASH』にて、表紙＆巻頭10ページでの掲載やグラビア掲載など被写体としても人気を誇るガルル🐅✨</p>
+
+<p>
+そして株式会社imaginateと株式会社TWIN PLANET＜ツインプラネット＞がタッグを組んだ新アイドルオーディション『TWIN PLANET NEW IDOL AUDITION from HEROINES』が開催中。中川さんは以前バスラン電話ゲストに出演してくれた阿部菜々実さんと鈴木遥夏さんと共にオープニングメンバーとしてオーディション参加者を募集しているガオ〜📩</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+お二人の誕生日3日前までに愛デコ付きでお誕生日のメッセージを送ってみようガオ〜🐯💛</p>
+
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box5">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div style="margin:0;
+ font-size:1.5em;
+ text-align:center;
+ padding-top:1em;
+ padding-left:2%;
+ padding-right:2%;
+ padding-bottom:1em;
+ background-color:#ffffff;
+">
+<a style="width:100%;
+ border:0.15em solid;
+ display:inline-block;
+ box-sizing:border-box;
+ margin-top:0.15em;
+ margin-left:0;
+ padding-top:0.5em;
+ border-color:#ff245f;
+ margin-right:0;
+ padding-left:2em;
+ margin-bottom:0.15em;
+ padding-right:2em;
+ padding-bottom:0.5em;
+ vertical-align:middle;
+ text-decoration:none;
+ background-color:transparent;
+ border-top-left-radius:0.25em;
+ border-top-right-radius:0.25em;
+ border-bottom-left-radius:0.25em;
+ border-bottom-right-radius:0.25em;
+" target="_blank" href="https://ec.saivision.jp/aideco">
+<p>
+<span style="color: rgb(255, 36, 95);
+ font-size: 1.35em;
+">
+愛デコ一覧へ</span>
+</p>
+
+</a>
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box6">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div class="class0">
+<div class="class1" style="display: block;
+">
+&nbsp;</div>
+
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box3">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div class="class0">
+<p>
+10月は特別に事前予約でメッセージをお送りいただいたTEAM愛９の皆さんには無料でお送りさせていただきましたガルル✨</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+そしてなんと11月いっぱいは特別に、TEAM愛９加入の方に加えて、</p>
+
+<p>
+事前予約いただいた方全員に放映証明書をお送りするガォ🌟</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+【放映証明書サンプル】デジタルデータで、メールにて送付しますガォ</p>
+
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box4">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div style="margin:0;
+ text-align:center;
+ padding-left:0;
+ padding-right:0;
+">
+<img width="768" class="class1" src="https://cmm.repica.jp/children/1762238116060_c0p62d30dr8.png">
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box3">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div class="class0">
+<p>
+TEAM愛９の皆さんへは、さらに特別な「放映証明書」を12月から発行します！</p>
+
+<p>
+愛９にならないと、ゲットできない「放映証明書」のパターンを準備して、</p>
+
+<p>
+みなさまが TEAM愛９に入ることと、愛メッセージをご予約くださることをお待ちしておりますガォ。</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+楽しみにしててガルル🐯💛</p>
+
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box2">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<h2 style="color:#888888;
+ margin:0;
+ font-size:2.2em;
+ padding-top:1.2em;
+ padding-left:2%;
+ padding-right:2%;
+ letter-spacing:0.05em;
+ padding-bottom:0.7em;
+ background-color:#ffffff;
+">
+<p style="text-align: center;
+">
+<span style="color: rgb(0, 0, 0);
+">
+🌟500P進呈！！今回の『感謝★感激★渋谷愛メッセ―ジ』だわん🌟</span>
+</p>
+
+</h2>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box3">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div class="class0">
+<p>
+心温まる素敵な愛メッセージを投稿して頂いているみなさまへ💞</p>
+
+<p>
+本当にありがとうございます。</p>
+
+<p>
+毎号１通、最も感謝★感激★したと思われる愛メッセージをピックアップ☆彡</p>
+
+<p>
+TEAM愛９ポイントを５００P進呈させていただいております。</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+<u>
+今号選ばれた愛メッセージは！？</u>
+</p>
+
+<p>
+2025年10月28日</p>
+
+<p>
+渋谷愛メッセージおめあり祭10番目に放映された愛メッセージです🍀</p>
+
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box4">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div style="margin:0;
+ text-align:center;
+ padding-left:0;
+ padding-right:0;
+">
+<img width="768" class="class1" src="https://cmm.repica.jp/children/1762236665974_kyvw58x668j.png">
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box3">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div class="class0">
+<p>
+<span style="color: rgb(39, 116, 177);
+">
+天国のお父さん。 </span>
+</p>
+
+<p>
+<span style="color: rgb(39, 116, 177);
+">
+誕生日おめでとう </span>
+</p>
+
+<p>
+<span style="color: rgb(39, 116, 177);
+">
+９０歳だね♡今年 </span>
+</p>
+
+<p>
+<span style="color: rgb(39, 116, 177);
+">
+は悲しい誕生日。 </span>
+</p>
+
+<p>
+<span style="color: rgb(39, 116, 177);
+">
+でも大好きだよ </span>
+</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+<span style="color: rgb(39, 116, 177);
+">
+#天国のお父さん #家族愛</span>
+</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+度々贈られてくる天国に居る大切な人へ向けた愛メッセージ。</p>
+
+<p>
+とっても素敵だと思いませんか？</p>
+
+<p>
+お盆だけでなく…、</p>
+
+<p>
+天国から見守ってくれる大切な人の誕生日を愛メッセージでお祝いする。</p>
+
+<p>
+きっと、微笑んでくれることでしょう。</p>
+
+<p>
+毎年、年齢を重ねていく愛メッセージ。</p>
+
+<p>
+毎年、愛メッセージを読み返してみてはいかがですか…。</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+素敵な愛メッセージありがとうです💞</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+贈り主様に５００P進呈させていただきます。</p>
+
+<p>
+1日、1愛メッセージ。一緒に笑顔を紡いでいこうだわん🍀</p>
+
+<p>
+※500Pの進呈はTEAM愛９の加入者に限ります。予めご了承ください。</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+<u style="color: rgb(198, 57, 42);
+">
+※10月28日／渋谷愛メッセージおめありで放映！</u>
+</p>
+
+<p>
+<u style="color: rgb(198, 57, 42);
+">
+渋谷愛ビジョン・公式YouTubeコチラでご覧になれます</u>
+</p>
+
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box5">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div style="margin:0;
+ font-size:1.5em;
+ text-align:center;
+ padding-top:1em;
+ padding-left:2%;
+ padding-right:2%;
+ padding-bottom:1em;
+ background-color:#ffffff;
+">
+<a style="width:100%;
+ border:0.15em solid;
+ display:inline-block;
+ box-sizing:border-box;
+ margin-top:0.15em;
+ margin-left:0;
+ padding-top:0.5em;
+ border-color:#ff245f;
+ margin-right:0;
+ padding-left:2em;
+ margin-bottom:0.15em;
+ padding-right:2em;
+ padding-bottom:0.5em;
+ vertical-align:middle;
+ text-decoration:none;
+ background-color:transparent;
+ border-top-left-radius:0.25em;
+ border-top-right-radius:0.25em;
+ border-bottom-left-radius:0.25em;
+ border-bottom-right-radius:0.25em;
+" target="_blank" href="https://youtu.be/S1fIYhIP2Jg?si=c7sr39OgEiSuj1xZ">
+<p>
+<span style="font-size: 1.35em;
+ color: rgb(255, 36, 95);
+">
+渋谷愛ビジョン・公式YouTube</span>
+</p>
+
+</a>
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box6">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div class="class0">
+<div class="class1" style="display: block;
+">
+&nbsp;</div>
+
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box3">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div class="class0">
+<p>
+<strong style="font-size: 1.35em;
+">
+🌟おめありレコメンド </strong>
+🌟</p>
+
+<p>
+<u style="color: rgb(59, 166, 248);
+ font-size: 1.35em;
+">
+■渋谷愛ビジョン・公式LINEがアップデート！TEAM愛９専用の投稿ができるようになりました！！</u>
+</p>
+
+<p>
+宮益坂ハムたまちゃん～ありがとう～💝</p>
+
+<p>
+渋谷愛ビジョン・公式LINEがオープンして以来…、</p>
+
+<p>
+TEAM愛９専用の投稿ページが見当たらない！！！</p>
+
+<p>
+というお問い合わせを多数いただいておりました。</p>
+
+<p>
+前号でお約束した通り、渋谷愛ビジョン・公式LINE愛を担当している宮益坂ハムたまちゃんがアップデートしてくれました。👏８８８８８８８８👏</p>
+
+<p>
+それでは、ハムたまちゃんからアップデート情報をお伝えしていただきましょう🍀</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+ハムたまだよ～～～～～ん☆彡みんなにうれしいお知らせハム💛</p>
+
+<p>
+『渋谷愛ビジョン公式LINE』のアップデートハム～～</p>
+
+<p>
+ついに『渋谷愛ビジョン公式LINE』に【TEAM愛9専用の投稿フォーム】ができたハム～</p>
+
+<p>
+これまでよりも手軽に、</p>
+
+<p>
+あなたの“愛メッセージ”を投稿できるようになったハム</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+たとえば──</p>
+
+<p>
+・お祝いのメッセージを大切な人に</p>
+
+<p>
+・推しや仲間へのありがとうを</p>
+
+<p>
+・家族や友達への一言を</p>
+
+<p>
+その想いが、渋谷の街頭ビジョンに映し出さるハム💛</p>
+
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box4">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div style="margin:0;
+ text-align:center;
+ padding-left:0;
+ padding-right:0;
+">
+<img width="768" class="class1" src="https://cmm.repica.jp/children/1762237658459_4j61b051ngb.png">
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box3">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div class="class0">
+<p>
+TEAM愛9のメンバーが渋谷愛ビジョン公式LINEに登録すると、</p>
+
+<p>
+こんな感じでTEAM愛9専用のワッペン付きでメニューが表示されるよ～～～🐣</p>
+
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box4">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div style="margin:0;
+ text-align:center;
+ padding-left:0;
+ padding-right:0;
+">
+<img width="768" class="class1" src="https://cmm.repica.jp/children/1762237733307_fq5zx1z85g.png">
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box3">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div class="class0">
+<p>
+10月1日のメルマガでLINEを登録してくれたTEAM愛9のメンバーにはまだワッペンが表示されていないかもしれないので、</p>
+
+<p>
+もし、TEAM愛9のメンバーでLINEに「TEAM愛9専用のワッペン」が表示されていない人がいたら公式LINEで教えてほしいハム～</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+まだ『渋谷愛ビジョン公式LINE』に登録していない人がいたら、</p>
+
+<p>
+ぜひ登録をお願いしますハム！</p>
+
+<p>
+公式LINEのIDは【 @500jdrxd 】ハムよ〜〜〜</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+渋谷愛ビジョン・公式LINEの登録はコチラのQRコードからできます。</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+この機会に友達登録してくださいね。</p>
+
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box4">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div style="margin:0;
+ text-align:center;
+ padding-left:0;
+ padding-right:0;
+">
+<img width="768" class="class1" src="https://cmm.repica.jp/children/1762237187197_f9gavuazgtl.png">
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box2">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<h2 style="color:#888888;
+ margin:0;
+ font-size:2.2em;
+ padding-top:1.2em;
+ padding-left:2%;
+ padding-right:2%;
+ letter-spacing:0.05em;
+ padding-bottom:0.7em;
+ background-color:#ffffff;
+">
+<p>
+<span style="color: rgb(0, 0, 0);
+">
+🌟編集後記・忍者ハチ🌟</span>
+</p>
+
+</h2>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box3">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div class="class0">
+<p>
+毎回、ギリギリでメルマガ原稿を編集している忍者ハチでござる。</p>
+
+<p>
+TEAM愛９の早見優わんファンのみなわんへ💝</p>
+
+<p>
+拙者と早見優わんのコラボTシャツを3名の方にプレゼントする企画があったことを覚えていますか？</p>
+
+<p>
+愛８の生み親！西岡純也クリエイティブ・ディレクターの力作がようやく完成しました</p>
+
+<p>
+👏８８８８８８８８👏</p>
+
+<p>
+それでは、お披露目させていただきますワォ～～～ン🍀</p>
+
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box4">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div style="margin:0;
+ text-align:center;
+ padding-left:0;
+ padding-right:0;
+">
+<img width="768" class="class1" src="https://cmm.repica.jp/children/1762237316673_319ukb1q6cf.jpeg">
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box3">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div class="class0">
+<p>
+拙者も欲しいわ～～～ん☆彡</p>
+
+<p>
+欲しい方がたくさんいた場合は、緊急発売してくれる可能性あり！！</p>
+
+<p>
+みなわんの熱い想い🌈愛メッセージで届けてくだわんね☆彡</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+次号では、愛８のキャラクターグッズを間に合わせて発表させていきたいと考えています。</p>
+
+<p>
+欲しいキャラクターグッズのリクエストを公式LINEで受付するわんね～🍀</p>
+
+<p>
+推し活で幸せになろう。</p>
+
+<p>
+渋谷愛ビジョンの進化にご期待くださいだわ～ん🌈</p>
+
+<p>
+最後まで読んでくれてARIGATOだワンワン💛</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+<span style="color: rgb(39, 116, 177);
+ font-size: 1.35em;
+">
+愛言葉は…、</span>
+</p>
+
+<p>
+<span style="color: rgb(39, 116, 177);
+ font-size: 1.35em;
+">
+おめでとう、ありがとう～♡</span>
+</p>
+
+<p>
+<span style="color: rgb(39, 116, 177);
+ font-size: 1.35em;
+">
+おかえりなさい、またね～♡</span>
+</p>
+
+<p>
+渋谷愛ビジョン・忍者ハチ</p>
+
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box3">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div class="class0">
+<p>
+<strong>
+🌟TEAM愛９の会員を募集しております。</strong>
+</p>
+
+<p>
+<strong>
+もっと×２！仲良くなって一緒に愛を紡いでいきましょうだワンワン💛</strong>
+</p>
+
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box4">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div style="margin:0;
+ text-align:center;
+ padding-left:0;
+ padding-right:0;
+">
+<img width="768" class="class1" src="https://cmm.repica.jp/children/1762237463595_yd0ksi32zx.png">
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box3">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div class="class0">
+<p>
+<strong style="font-size: 1.35em;
+">
+🌟</strong>
+<strong style="font-size: 1.35em;
+ color: rgb(79, 129, 189);
+">
+ラジオ日本（FM92.4／AM1422）</strong>
+</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+<strong style="font-size: 1.35em;
+">
+毎週木曜日／１８時００分～２０時３０分生放送</strong>
+</p>
+
+<p>
+『ウィークリー・バースデー・ランキング』</p>
+
+<p>
+公式ホームページから！</p>
+
+<p>
+あなたの推しを投票してバスラン・ベスト３にランクインさせてくださいね。</p>
+
+<p>
+ゲストとして招聘させていただきます。</p>
+
+<p>
+<span style="color: rgb(192, 80, 77);
+">
+#バスラン公式ホームページはコチラから！</span>
+</p>
+
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box5">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div style="margin:0;
+ font-size:1.5em;
+ text-align:center;
+ padding-top:1em;
+ padding-left:2%;
+ padding-right:2%;
+ padding-bottom:1em;
+ background-color:#ffffff;
+">
+<a style="width:100%;
+ border:0.15em solid;
+ display:inline-block;
+ box-sizing:border-box;
+ margin-top:0.15em;
+ margin-left:0;
+ padding-top:0.5em;
+ border-color:#ff245f;
+ margin-right:0;
+ padding-left:2em;
+ margin-bottom:0.15em;
+ padding-right:2em;
+ padding-bottom:0.5em;
+ vertical-align:middle;
+ text-decoration:none;
+ background-color:transparent;
+ border-top-left-radius:0.25em;
+ border-top-right-radius:0.25em;
+ border-bottom-left-radius:0.25em;
+ border-bottom-right-radius:0.25em;
+" target="_blank" href="https://www.birth-ran.com/">
+<p>
+<span style="color: rgb(255, 36, 95);
+ font-size: 1.35em;
+">
+バスラン公式ホームページ</span>
+</p>
+
+</a>
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box4">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div style="margin:0;
+ text-align:center;
+ padding-left:0;
+ padding-right:0;
+">
+<img width="768" class="class1" src="https://cmm.repica.jp/children/1762238919448_2lu36q08xau.png">
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box2">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<h2 style="color:#888888;
+ margin:0;
+ font-size:2.2em;
+ padding-top:1.2em;
+ padding-left:2%;
+ padding-right:2%;
+ letter-spacing:0.05em;
+ padding-bottom:0.7em;
+ background-color:#ffffff;
+">
+<p>
+<strong style="color: rgb(0, 0, 0);
+">
+🎂バスラン、10月17日〜11月3日。</strong>
+</p>
+
+</h2>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box3">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div class="class0">
+<p>
+川村ケンスケ（映像ディレクター／渋谷愛ビジョン・サポーター）の</p>
+
+<p>
+「渋谷愛ビジョン・バースデーランキング」＝『バスラン』！</p>
+
+<p>
+毎日贈られる #渋谷愛メッセージ でのお誕生日おめでとう！</p>
+
+<p>
+2025年10月17日〜11月3日の間に贈られた、そのおめでとうメッセージの数でランキングを計出しています。</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+公式ラジオ番組「ウィークリー・バースデー・ランキング」をradikoで、あるいは渋谷愛ビジョンのYouTube LIVE配信中にリプレイされている放送を振り返りながら、ランキングをみるのもこれまた、よし！かも。</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+…そのランキングの前に!</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+まずは、恒例の ＜バスラン・ピックアップ＞ 。</p>
+
+<p>
+この2週間で、わたくし川村ケンスケの印象に残ったメッセージを、ご紹介します。</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+今回は、10月22日、渋谷愛メッセージ誕生祭 で 12番目に放映されたメッセージ…</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+<span style="color: rgb(66, 142, 61);
+">
+タケカワユキヒデ</span>
+</p>
+
+<p>
+<span style="color: rgb(66, 142, 61);
+">
+さん♫誕生日祝♫</span>
+</p>
+
+<p>
+<span style="color: rgb(66, 142, 61);
+">
+永遠のメロディー</span>
+</p>
+
+<p>
+<span style="color: rgb(66, 142, 61);
+">
+タッタさんこれか</span>
+</p>
+
+<p>
+<span style="color: rgb(66, 142, 61);
+">
+らも作ってね♫</span>
+</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+#タケカワユキヒデ ／@takekawa_staff</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+ロックバンド「ゴダイゴ」のボーカル、タケカワユキヒデさんの誕生日に届いたメッセージ。たくさんメッセージいただきました！</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+このメッセージを今号のメルマガのピックアップにした理由は…</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+前号に引き続き！(笑)</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+わたし川村の大学の先輩だから！という理由(笑)…前号では、ロックバンドボーカル「VOWWOW」の元ボーカリスト・人見元基さんへのメッセージがピックアップ朝れました。</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+ということで、2号連続の超！極私的！ピックアップ、です。</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+タケカワさんの卒業大学は東京外国語大学、当時の学科区分で言うと英米語学科で、わたくしは、前号の人見元基さん同様直接の後輩になります。</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+というか、わたくしがこの大学への進学を志して入学した理由は「ゴダイゴが好きだったから！」ということなので、自分にとって、これはもうこれ以上の影響力はない！という感じ。</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+タケカワの卒業が1983年、その2年後1985年に、わたくしは大学に入学しました。タケカワさんの年齢（いま73歳。ちなみにわたくしは今61歳）から考えると、計算が合わないじゃん！と思われることでしょう。</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+タケカワさんは、1972年に入学し、11年かけて、1983年に卒業なさったのでした！（留年・休学合計で、当時最長の7年という上限を加えた在学年11年をつかって、卒業されたようです）</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+ということで、わたくし、音楽ビデオディレクターになってから何度かタケカワさんとお仕事ご一緒したことがあり、同じ教授に習ったこともあったりで、そのあたりの話に花が咲きました。とてもうれしかったのを覚えています。</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+そのあたりのことは、また別の機会に…</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+ところで、メッセージの内容にもどって、この「タッタ」さん、とは！</p>
+
+<p>
+？</p>
+
+<p>
+1981年から1985年まで、FMレコパルという雑誌…</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+これ、今やその存在主旨が理解されづらい種の雑誌ですが…その当時は、音楽を聴いて（録音する！）主たる場所はFMラジオだったのですが、そうすると、自分の聞きたい・録音したい曲がいつ流れるか事前に知りたいということで、FMラジオの番組表が毎週まとまって知れるような雑誌が「音楽雑誌」としての位置をしっかり確保しておりました（懐かしい）</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+…に連載されていたタケカワユキヒデさん執筆のエッセイが「タッタくん現わる」というものでして、それは、単行本としてまとまったものも、発売されておりました。</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+タケカワさんのその時点での「半生」と「暮らし」等が面白おかしく綴られていました。</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+いま、手元にその本がないので、断言はできないのですが…「タッタくん」はタケカワさんのニックネームのはず（それっぽいよね）。その言葉がメッセージに入っていたことで、このメッセージの送り主さんがかなりのファンであることがわかった！という感動が、わたくしに(笑)ありました。</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+そんな感じの、やや時代を感じてしまう理由で選んだ今日のピックアップ、</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+放映されたメッセージは、公式YouTubeにアーカイブで公開されています。</p>
+
+<p>
+この日のアーカイブはこちら↓</p>
+
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box5">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div style="margin:0;
+ font-size:1.5em;
+ text-align:center;
+ padding-top:1em;
+ padding-left:2%;
+ padding-right:2%;
+ padding-bottom:1em;
+ background-color:#ffffff;
+">
+<a style="width:100%;
+ border:0.15em solid;
+ display:inline-block;
+ box-sizing:border-box;
+ margin-top:0.15em;
+ margin-left:0;
+ padding-top:0.5em;
+ border-color:#ff245f;
+ margin-right:0;
+ padding-left:2em;
+ margin-bottom:0.15em;
+ padding-right:2em;
+ padding-bottom:0.5em;
+ vertical-align:middle;
+ text-decoration:none;
+ background-color:transparent;
+ border-top-left-radius:0.25em;
+ border-top-right-radius:0.25em;
+ border-bottom-left-radius:0.25em;
+ border-bottom-right-radius:0.25em;
+" target="_blank" href="https://youtu.be/Ut9w0Wb1nqA?si=vElpo3aEJ_H0_XdI">
+<p>
+<span style="color: rgb(255, 36, 95);
+ font-size: 1.35em;
+">
+公式YouTube</span>
+</p>
+
+</a>
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box3">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div class="class0">
+<p>
+冒頭から11分くらいのところで、タケカワユキヒデ先輩！(笑) さん宛のメッセージが流れます。</p>
+
+<p>
+ぜひ、見てみてね。</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+今号も、読んでいただきありがとうございます。</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+では、また次号！</p>
+
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box8">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top" class="class0">
+
+<td style="width:256;
+ " class="box4">
+<div class="split-cell">
+<div class="split-table">
+<div style="width:auto;
+ height:100%;
+ margin:0;
+ display:table-cell;
+ box-sizing:border-box;
+ text-align:center;
+ padding-left:0;
+ padding-right:0;
+ vertical-align:top;
+">
+<img width="256" class="class1" src="https://cmm.repica.jp/children/1758022485026_cpqlj2uvcpl.png">
+</div>
+
+</div>
+
+</div>
+
+</td>
+
+<td style="width:256;
+ " class="box4">
+<div class="split-cell">
+<div class="split-table">
+<div style="width:auto;
+ height:100%;
+ margin:0;
+ display:table-cell;
+ box-sizing:border-box;
+ text-align:center;
+ padding-left:0;
+ padding-right:0;
+ vertical-align:top;
+">
+<img width="256" class="class1" src="https://cmm.repica.jp/children/1758022488567_hxldqyempx.png">
+</div>
+
+</div>
+
+</div>
+
+</td>
+
+<td style="width:256;
+ " class="box4">
+<div class="split-cell">
+<div class="split-table">
+<div style="width:auto;
+ height:100%;
+ margin:0;
+ display:table-cell;
+ box-sizing:border-box;
+ text-align:center;
+ padding-left:0;
+ padding-right:0;
+ vertical-align:top;
+">
+<img width="256" class="class1" src="https://cmm.repica.jp/children/1758022492051_wp1hh3r862.png">
+</div>
+
+</div>
+
+</div>
+
+</td>
+
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box8">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top" class="class0">
+
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #ffffff;
+">
+</td>
+<![endif]-->
+<td style="width:210;
+ background-color: #ffffff;
+" class="box3">
+<div class="split-cell">
+<div class="split-table">
+<div style="width:auto;
+ height:100%;
+ margin:0;
+ display:table-cell;
+ font-size:1.5em;
+ box-sizing:border-box;
+ padding-top:0.75em;
+ padding-left:3%;
+ padding-right:3%;
+ padding-bottom:0.75em;
+ vertical-align:top;
+ background-color:#ffffff;
+">
+<p style="text-align: center;
+">
+<strong style="color: rgb(33, 72, 246);
+">
+イチロー さん</strong>
+</p>
+
+<p style="text-align: center;
+">
+<strong style="color: rgb(33, 72, 246);
+">
+／10月22日</strong>
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</td>
+
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #ffffff;
+">
+</td>
+<![endif]-->
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #ffffff;
+">
+</td>
+<![endif]-->
+<td style="width:210;
+ background-color: #ffffff;
+" class="box3">
+<div class="split-cell">
+<div class="split-table">
+<div style="width:auto;
+ height:100%;
+ margin:0;
+ display:table-cell;
+ font-size:1.5em;
+ box-sizing:border-box;
+ padding-top:0.75em;
+ padding-left:3%;
+ padding-right:3%;
+ padding-bottom:0.75em;
+ vertical-align:top;
+ background-color:#ffffff;
+">
+<p style="text-align: center;
+">
+<strong style="color: rgb(33, 72, 246);
+">
+嵐 さん</strong>
+</p>
+
+<p style="text-align: center;
+">
+<strong style="color: rgb(33, 72, 246);
+">
+／11月30日</strong>
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</td>
+
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #ffffff;
+">
+</td>
+<![endif]-->
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #ffffff;
+">
+</td>
+<![endif]-->
+<td style="width:210;
+ background-color: #ffffff;
+" class="box3">
+<div class="split-cell">
+<div class="split-table">
+<div style="width:auto;
+ height:100%;
+ margin:0;
+ display:table-cell;
+ font-size:1.5em;
+ box-sizing:border-box;
+ padding-top:0.75em;
+ padding-left:3%;
+ padding-right:3%;
+ padding-bottom:0.75em;
+ vertical-align:top;
+ background-color:#ffffff;
+">
+<p style="text-align: center;
+">
+<strong style="color: rgb(33, 72, 246);
+">
+YUTA（中本悠太）さん（NCT）</strong>
+</p>
+
+<p style="text-align: center;
+">
+<strong style="color: rgb(33, 72, 246);
+">
+／10月26日</strong>
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</td>
+
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #ffffff;
+">
+</td>
+<![endif]-->
+
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box3">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div class="class0">
+<p>
+※毎日のバスラン＝ランキングは、号末で紹介！そちらをぜひごらんください。</p>
+
+<p>
+<br>
+
+</p>
+
+<p>
+🎂 バスラン</p>
+
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box8">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top" class="class0">
+
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<td style="width:146;
+ background-color: #f9f9f9;
+" class="box3">
+<div class="split-cell">
+<div class="split-table">
+<div style="width:auto;
+ height:100%;
+ margin:0;
+ display:table-cell;
+ font-size:1.5em;
+ box-sizing:border-box;
+ padding-top:0.75em;
+ padding-left:3%;
+ padding-right:3%;
+ padding-bottom:0.75em;
+ vertical-align:top;
+ background-color:#f9f9f9;
+">
+<p>
+<strong>
+2025/10/17</strong>
+</p>
+
+<p>
+<strong style="font-size: 1em;
+">
+1位</strong>
+ 橋本 将生 さん（timelesz）</p>
+
+<p>
+<strong>
+2位</strong>
+ 松坂 桃李 さん</p>
+
+<p>
+<strong>
+3位</strong>
+ 大島 優子 さん</p>
+
+</div>
+
+</div>
+
+</div>
+
+</td>
+
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<td style="width:146;
+ background-color: #f9f9f9;
+" class="box3">
+<div class="split-cell">
+<div class="split-table">
+<div style="width:auto;
+ height:100%;
+ margin:0;
+ display:table-cell;
+ font-size:1.5em;
+ box-sizing:border-box;
+ padding-top:0.75em;
+ padding-left:3%;
+ padding-right:3%;
+ padding-bottom:0.75em;
+ vertical-align:top;
+ background-color:#f9f9f9;
+">
+<p>
+<strong>
+2025/10/18</strong>
+</p>
+
+<p>
+<strong>
+1位</strong>
+ 越智 ゆらの さん（ファッションモデル）</p>
+
+<p>
+<strong>
+2位</strong>
+ 仲 里依紗 さん</p>
+
+<p>
+<strong>
+3位</strong>
+ 伊東 健人 さん</p>
+
+</div>
+
+</div>
+
+</div>
+
+</td>
+
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<td style="width:146;
+ background-color: #f9f9f9;
+" class="box3">
+<div class="split-cell">
+<div class="split-table">
+<div style="width:auto;
+ height:100%;
+ margin:0;
+ display:table-cell;
+ font-size:1.5em;
+ box-sizing:border-box;
+ padding-top:0.75em;
+ padding-left:3%;
+ padding-right:3%;
+ padding-bottom:0.75em;
+ vertical-align:top;
+ background-color:#f9f9f9;
+">
+<p>
+<strong>
+2025/10/19</strong>
+</p>
+
+<p>
+<strong>
+1位</strong>
+ 木村 文乃 さん</p>
+
+<p>
+<strong>
+2位</strong>
+ 菊地 姫奈 さん</p>
+
+<p>
+<strong>
+3位</strong>
+ もりもと さん（ヤバイTシャツ屋さん）</p>
+
+</div>
+
+</div>
+
+</div>
+
+</td>
+
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<td style="width:146;
+ background-color: #f9f9f9;
+" class="box3">
+<div class="split-cell">
+<div class="split-table">
+<div style="width:auto;
+ height:100%;
+ margin:0;
+ display:table-cell;
+ font-size:1.5em;
+ box-sizing:border-box;
+ padding-top:0.75em;
+ padding-left:3%;
+ padding-right:3%;
+ padding-bottom:0.75em;
+ vertical-align:top;
+ background-color:#f9f9f9;
+">
+<p>
+<strong>
+2025/10/20</strong>
+</p>
+
+<p>
+<strong>
+1位</strong>
+ 遊馬 晃祐 さん（舞台俳優）</p>
+
+<p>
+<strong>
+2位</strong>
+ 藤原 樹 さん</p>
+
+<p>
+<strong>
+3位</strong>
+ 河合 郁人 さん</p>
+
+</div>
+
+</div>
+
+</div>
+
+</td>
+
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box8">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top" class="class0">
+
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<td style="width:146;
+ background-color: #f9f9f9;
+" class="box3">
+<div class="split-cell">
+<div class="split-table">
+<div style="width:auto;
+ height:100%;
+ margin:0;
+ display:table-cell;
+ font-size:1.5em;
+ box-sizing:border-box;
+ padding-top:0.75em;
+ padding-left:3%;
+ padding-right:3%;
+ padding-bottom:0.75em;
+ vertical-align:top;
+ background-color:#f9f9f9;
+">
+<p>
+<strong>
+2025/10/21</strong>
+</p>
+
+<p>
+<strong>
+1位</strong>
+ 中間 淳太 さん（WEST.）</p>
+
+<p>
+<strong>
+2位</strong>
+ ユイ・ガ・ドクソン さん（GANG PARADE）</p>
+
+<p>
+<strong>
+3位</strong>
+ 白上フブキ さん（フブキングダム）</p>
+
+</div>
+
+</div>
+
+</div>
+
+</td>
+
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<td style="width:146;
+ background-color: #f9f9f9;
+" class="box3">
+<div class="split-cell">
+<div class="split-table">
+<div style="width:auto;
+ height:100%;
+ margin:0;
+ display:table-cell;
+ font-size:1.5em;
+ box-sizing:border-box;
+ padding-top:0.75em;
+ padding-left:3%;
+ padding-right:3%;
+ padding-bottom:0.75em;
+ vertical-align:top;
+ background-color:#f9f9f9;
+">
+<p>
+<strong>
+202 5/10/22</strong>
+</p>
+
+<p>
+<strong>
+1位</strong>
+ イチロー さん</p>
+
+<p>
+<strong>
+2位</strong>
+ 福留 帆 さん</p>
+
+<p>
+<strong>
+3位</strong>
+ 松浦 航大 さん</p>
+
+</div>
+
+</div>
+
+</div>
+
+</td>
+
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<td style="width:146;
+ background-color: #f9f9f9;
+" class="box3">
+<div class="split-cell">
+<div class="split-table">
+<div style="width:auto;
+ height:100%;
+ margin:0;
+ display:table-cell;
+ font-size:1.5em;
+ box-sizing:border-box;
+ padding-top:0.75em;
+ padding-left:3%;
+ padding-right:3%;
+ padding-bottom:0.75em;
+ vertical-align:top;
+ background-color:#f9f9f9;
+">
+<p>
+<strong>
+2025/10/23</strong>
+</p>
+
+<p>
+<strong>
+1位 </strong>
+渡辺 直美 さん</p>
+
+<p>
+<strong>
+2位</strong>
+ 上村 祐翔 さん</p>
+
+<p>
+<strong>
+3位</strong>
+ ゆき ぽよ さん</p>
+
+</div>
+
+</div>
+
+</div>
+
+</td>
+
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<td style="width:146;
+ background-color: #f9f9f9;
+" class="box3">
+<div class="split-cell">
+<div class="split-table">
+<div style="width:auto;
+ height:100%;
+ margin:0;
+ display:table-cell;
+ font-size:1.5em;
+ box-sizing:border-box;
+ padding-top:0.75em;
+ padding-left:3%;
+ padding-right:3%;
+ padding-bottom:0.75em;
+ vertical-align:top;
+ background-color:#f9f9f9;
+">
+<p>
+<strong>
+2025/10/24</strong>
+</p>
+
+<p>
+<strong>
+1位</strong>
+ Ado さん</p>
+
+<p>
+<strong>
+2位</strong>
+ 花宮 初奈 さん</p>
+
+<p>
+<strong>
+3位</strong>
+ 岡本 信彦 さん（ゲスの極み乙女）</p>
+
+</div>
+
+</div>
+
+</div>
+
+</td>
+
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box8">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top" class="class0">
+
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<td style="width:146;
+ background-color: #f9f9f9;
+" class="box3">
+<div class="split-cell">
+<div class="split-table">
+<div style="width:auto;
+ height:100%;
+ margin:0;
+ display:table-cell;
+ font-size:1.5em;
+ box-sizing:border-box;
+ padding-top:0.75em;
+ padding-left:3%;
+ padding-right:3%;
+ padding-bottom:0.75em;
+ vertical-align:top;
+ background-color:#f9f9f9;
+">
+<p>
+<strong>
+2025/10/25</strong>
+</p>
+
+<p>
+<strong>
+1位</strong>
+ 與那 城奨 さん（JO1）</p>
+
+<p>
+<strong>
+2位</strong>
+ 愛野 ユキ さん（東京女子プロレス）</p>
+
+<p>
+<strong>
+3位</strong>
+ 古川 琴音 さん</p>
+
+</div>
+
+</div>
+
+</div>
+
+</td>
+
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<td style="width:146;
+ background-color: #f9f9f9;
+" class="box3">
+<div class="split-cell">
+<div class="split-table">
+<div style="width:auto;
+ height:100%;
+ margin:0;
+ display:table-cell;
+ font-size:1.5em;
+ box-sizing:border-box;
+ padding-top:0.75em;
+ padding-left:3%;
+ padding-right:3%;
+ padding-bottom:0.75em;
+ vertical-align:top;
+ background-color:#f9f9f9;
+">
+<p>
+<strong>
+2025/10/26</strong>
+</p>
+
+<p>
+<strong>
+1位</strong>
+ YUTA（中本悠太）さん（NCT）</p>
+
+<p>
+<strong>
+2位</strong>
+ 月足 天音 さん（FRUITS ZIPPER）</p>
+
+<p>
+<strong>
+3位</strong>
+ マツコ・デラックス さん</p>
+
+</div>
+
+</div>
+
+</div>
+
+</td>
+
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<td style="width:146;
+ background-color: #f9f9f9;
+" class="box3">
+<div class="split-cell">
+<div class="split-table">
+<div style="width:auto;
+ height:100%;
+ margin:0;
+ display:table-cell;
+ font-size:1.5em;
+ box-sizing:border-box;
+ padding-top:0.75em;
+ padding-left:3%;
+ padding-right:3%;
+ padding-bottom:0.75em;
+ vertical-align:top;
+ background-color:#f9f9f9;
+">
+<p>
+<strong>
+2025/10/27</strong>
+</p>
+
+<p>
+<strong>
+1位</strong>
+ 檜山 沙耶 さん</p>
+
+<p>
+<strong>
+2位</strong>
+ 織山 尚大 さん</p>
+
+<p>
+<strong>
+3位</strong>
+ 上遠野 太洸 さん</p>
+
+</div>
+
+</div>
+
+</div>
+
+</td>
+
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<td style="width:146;
+ background-color: #f9f9f9;
+" class="box3">
+<div class="split-cell">
+<div class="split-table">
+<div style="width:auto;
+ height:100%;
+ margin:0;
+ display:table-cell;
+ font-size:1.5em;
+ box-sizing:border-box;
+ padding-top:0.75em;
+ padding-left:3%;
+ padding-right:3%;
+ padding-bottom:0.75em;
+ vertical-align:top;
+ background-color:#f9f9f9;
+">
+<p>
+<strong>
+2025/10/28</strong>
+</p>
+
+<p>
+<strong>
+1位</strong>
+ スザンヌ さん</p>
+
+<p>
+<strong>
+2位</strong>
+ 野呂 佳代 さん</p>
+
+<p>
+<strong>
+3位</strong>
+ 菜々緒 さん</p>
+
+</div>
+
+</div>
+
+</div>
+
+</td>
+
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box8">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top" class="class0">
+
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<td style="width:146;
+ background-color: #f9f9f9;
+" class="box3">
+<div class="split-cell">
+<div class="split-table">
+<div style="width:auto;
+ height:100%;
+ margin:0;
+ display:table-cell;
+ font-size:1.5em;
+ box-sizing:border-box;
+ padding-top:0.75em;
+ padding-left:3%;
+ padding-right:3%;
+ padding-bottom:0.75em;
+ vertical-align:top;
+ background-color:#f9f9f9;
+">
+<p>
+<strong>
+2025/10/29</strong>
+</p>
+
+<p>
+<strong>
+1位</strong>
+ 堀江 貴文 さん</p>
+
+<p>
+<strong>
+2位</strong>
+ 篠原 梨菜 さん</p>
+
+<p>
+<strong>
+3位</strong>
+ 石野 理子 さん</p>
+
+</div>
+
+</div>
+
+</div>
+
+</td>
+
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<td style="width:146;
+ background-color: #f9f9f9;
+" class="box3">
+<div class="split-cell">
+<div class="split-table">
+<div style="width:auto;
+ height:100%;
+ margin:0;
+ display:table-cell;
+ font-size:1.5em;
+ box-sizing:border-box;
+ padding-top:0.75em;
+ padding-left:3%;
+ padding-right:3%;
+ padding-bottom:0.75em;
+ vertical-align:top;
+ background-color:#f9f9f9;
+">
+<p>
+<strong>
+2025/10/30</strong>
+</p>
+
+<p>
+<strong>
+1位</strong>
+ 神宮寺 勇太 さん（Number_i）</p>
+
+<p>
+<strong>
+2位</strong>
+ てつや さん（東海オンエア）</p>
+
+<p>
+<strong>
+3位</strong>
+ 松田 迅 さん</p>
+
+</div>
+
+</div>
+
+</div>
+
+</td>
+
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<td style="width:146;
+ background-color: #f9f9f9;
+" class="box3">
+<div class="split-cell">
+<div class="split-table">
+<div style="width:auto;
+ height:100%;
+ margin:0;
+ display:table-cell;
+ font-size:1.5em;
+ box-sizing:border-box;
+ padding-top:0.75em;
+ padding-left:3%;
+ padding-right:3%;
+ padding-bottom:0.75em;
+ vertical-align:top;
+ background-color:#f9f9f9;
+">
+<p>
+<strong>
+2025/10/31</strong>
+</p>
+
+<p>
+<strong>
+1位</strong>
+ 朝倉 海 さん</p>
+
+<p>
+<strong>
+2位</strong>
+ 井上 瑞稀 さん（KEY TO LIT）</p>
+
+<p>
+<strong>
+3位</strong>
+ 金川 紗耶 さん（乃木坂 46）</p>
+
+</div>
+
+</div>
+
+</div>
+
+</td>
+
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<td style="width:146;
+ background-color: #f9f9f9;
+" class="box3">
+<div class="split-cell">
+<div class="split-table">
+<div style="width:auto;
+ height:100%;
+ margin:0;
+ display:table-cell;
+ font-size:1.5em;
+ box-sizing:border-box;
+ padding-top:0.75em;
+ padding-left:3%;
+ padding-right:3%;
+ padding-bottom:0.75em;
+ vertical-align:top;
+ background-color:#f9f9f9;
+">
+<p>
+<strong>
+2025/11/1</strong>
+</p>
+
+<p>
+<strong>
+1位</strong>
+ 田中 将大 さん（読売ジャイアンツ）</p>
+
+<p>
+<strong>
+2位</strong>
+ 小倉 優子 さん</p>
+
+<p>
+<strong>
+3位</strong>
+ V6 さん（結成記念日）</p>
+
+</div>
+
+</div>
+
+</div>
+
+</td>
+
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box8">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top" class="class0">
+
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<td style="width:146;
+ background-color: #f9f9f9;
+" class="box3">
+<div class="split-cell">
+<div class="split-table">
+<div style="width:auto;
+ height:100%;
+ margin:0;
+ display:table-cell;
+ font-size:1.5em;
+ box-sizing:border-box;
+ padding-top:0.75em;
+ padding-left:3%;
+ padding-right:3%;
+ padding-bottom:0.75em;
+ vertical-align:top;
+ background-color:#f9f9f9;
+">
+<p>
+<strong>
+2025/11/2</strong>
+</p>
+
+<p>
+<strong>
+1位</strong>
+ 諏訪 ななか さん</p>
+
+<p>
+<strong>
+2位</strong>
+ 當真 あみ さん</p>
+
+<p>
+<strong>
+3位</strong>
+ AI さん</p>
+
+</div>
+
+</div>
+
+</div>
+
+</td>
+
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<td style="width:146;
+ background-color: #f9f9f9;
+" class="box3">
+<div class="split-cell">
+<div class="split-table">
+<div style="width:auto;
+ height:100%;
+ margin:0;
+ display:table-cell;
+ font-size:1.5em;
+ box-sizing:border-box;
+ padding-top:0.75em;
+ padding-left:3%;
+ padding-right:3%;
+ padding-bottom:0.75em;
+ vertical-align:top;
+ background-color:#f9f9f9;
+">
+<p>
+<strong>
+2025/11/3</strong>
+</p>
+
+<p>
+<strong>
+1位</strong>
+ 嵐 さん</p>
+
+<p>
+<strong>
+2位</strong>
+ 北村 匠海 さん</p>
+
+<p>
+<strong>
+3位</strong>
+ 竹村 実悟 さん</p>
+
+</div>
+
+</div>
+
+</div>
+
+</td>
+
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<td style="width:146;
+ background-color: #f9f9f9;
+" class="box3">
+<div class="split-cell">
+<div class="split-table">
+<div style="width:auto;
+ height:100%;
+ margin:0;
+ display:table-cell;
+ font-size:1.5em;
+ box-sizing:border-box;
+ padding-top:0.75em;
+ padding-left:3%;
+ padding-right:3%;
+ padding-bottom:0.75em;
+ vertical-align:top;
+ background-color:#f9f9f9;
+">
+<p>
+<br>
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</td>
+
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+<td style="width:146;
+ background-color: #f9f9f9;
+" class="box3">
+<div class="split-cell">
+<div class="split-table">
+<div style="width:auto;
+ height:100%;
+ margin:0;
+ display:table-cell;
+ font-size:1.5em;
+ box-sizing:border-box;
+ padding-top:0.75em;
+ padding-left:3%;
+ padding-right:3%;
+ padding-bottom:0.75em;
+ vertical-align:top;
+ background-color:#f9f9f9;
+">
+<p>
+<br>
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</td>
+
+<!--[if gte mso 9]>
+<td style="width:23px;
+background-color: #f9f9f9;
+">
+</td>
+<![endif]-->
+
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box6">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div style="margin:0px;
+ padding:1em 2.4em;
+ text-align:center;
+ background-color:rgb(255, 255, 255);
+">
+<div style="height:1px;
+ background-color:rgb(221, 221, 221);
+display: block;
+">
+&nbsp;</div>
+
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td class="box4">
+<table border="0" cellpadding="0" cellspacing="0" width="768" style="border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+ width:768;
+ padding: 0;
+ margin:0;
+ ">
+<tbody><tr valign="top">
+<td>
+<div style="margin:0;
+ text-align:center;
+ padding-left:0;
+ padding-right:0;
+">
+<img width="768" class="class1" src="https://cmm.repica.jp/children/1758022990159_6sfw328371v.png">
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+
+</body>
+</html>
